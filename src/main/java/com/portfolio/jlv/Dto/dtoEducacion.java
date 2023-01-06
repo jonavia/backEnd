@@ -5,7 +5,8 @@
  */
 package com.portfolio.jlv.Dto;
 
-import javax.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotBlank;
+
 
 public class dtoEducacion {
     @NotBlank

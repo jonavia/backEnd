@@ -8,7 +8,7 @@ package com.portfolio.jlv.Security.Service;
 import com.portfolio.jlv.Security.Entity.Usuario;
 import com.portfolio.jlv.Security.Repository.iUsuarioRepository;
 import java.util.Optional;
-import javax.transaction.Transactional;
+import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
